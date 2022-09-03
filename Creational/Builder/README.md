@@ -1,0 +1,1 @@
+So by using the builder pattern, we are able to create an intermediary object that can be used to easily create and customize a complex object with self-contined error checking that produces an immutable object as a result.
